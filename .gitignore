@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+vbcable_setup/
+*.pyc
+nircmd.exe
+nircmdc.exe
+nircmd.zip
+vbcable_pack.zip
+ssup_woofer_config.json
