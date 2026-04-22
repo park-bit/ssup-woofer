@@ -14,5 +14,5 @@ A python script to route low frequencies to a bluetooth speaker and high frequen
 4. Click Start.
 
 ## notes
-- Delay slider is to sync up bluetooth lag (usually around 150-200ms).
+- Delay slider is to sync up bluetooth lag (usually around 1500-2000ms).
 - Sub gain uses a tanh curve so it clips nicely instead of breaking your speakers.
